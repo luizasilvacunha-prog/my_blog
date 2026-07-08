@@ -5,5 +5,17 @@ header{
     max-width: 800px;
     margin: 0 auto;
 }
-h1{ 
-    color: ;
+
+    main {
+  background-color: #FFFFFF;
+  color: #035ebe;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  
+}
